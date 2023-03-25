@@ -4,7 +4,7 @@ import "./Addnote.css"
 
 const Addnote = () => {
     return (
-        <div clas>
+        <div>
             <div>
                 <Navbar />
             </div>
